@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @creepahh
-- 👀 I’m interested in data.
+- 👋 Hi, I’m, well, a newbie for now. 
+
 
 
 <!---
