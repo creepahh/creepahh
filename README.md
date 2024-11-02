@@ -23,6 +23,31 @@
 
 <p>&nbsp;</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://ejs.co/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/ejs.png" alt="EJS" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+</p>
+
 ### 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=creepahh&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
