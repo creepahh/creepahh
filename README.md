@@ -1,4 +1,4 @@
-<p align="left"> <img src="kripa-new.jpg" alt="creepahh" /> </p>
+<!-- <p align="left"> <img src="kripa-new.jpg" alt="creepahh" /> </p> -->
 
 <h1 align="center">Hi, I'm Kripa!</h1>
 <!-- <h3 align="center">A learner</h3> -->
