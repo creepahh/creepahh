@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi, I'm Kripa!</h1>
 <!-- <h3 align="center">A learner</h3> -->
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Stumbling+And+Learning+About+Web" alt="Intro" >
-
+ -->
 - I’m currently exploring around **Shell Scripting**
 
 - I’m currently learning **Kubernetes**
