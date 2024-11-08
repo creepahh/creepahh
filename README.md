@@ -5,9 +5,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Stumbling+And+Learning+About+Web" alt="Intro" >
 
-- I’m currently working on **developing my full stack development skills**
+- I’m currently exploring around **Shell Scripting**
 
-- I’m currently learning **Backend Integration**
+- I’m currently learning **Kubernetes**
 
 - How to reach me **creepahh13@gmail.com**
 
