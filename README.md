@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Stumbling+And+Learning+About+Web" alt="Intro" >
  -->
 
-- I’m currently learning exploring around **Full Stack Development**
+- I’m currently exploring around **Full Stack Development**
 
 - How to reach me **creepahh13@gmail.com**
 
