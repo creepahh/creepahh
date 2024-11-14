@@ -5,9 +5,8 @@
 <!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Stumbling+And+Learning+About+Web" alt="Intro" >
  -->
-- I’m currently exploring around **Shell Scripting**
 
-- I’m currently learning **Kubernetes**
+- I’m currently learning exploring around **Full Stack Development**
 
 - How to reach me **creepahh13@gmail.com**
 
@@ -28,9 +27,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
+<!--   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://ejs.co/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/ejs.png" alt="EJS" width="40" height="40"/>
   </a>
