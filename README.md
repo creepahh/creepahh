@@ -9,8 +9,6 @@
  <img src="https://komarev.com/ghpvc/?username=creepahh&label=Profile%20views&color=0e75b6&style=flat" alt="prabesh-raj-pant" /> 
 </p>
 
-- I’m currently exploring around **Full Stack Development**
-
 - How to reach me **creepahh13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
