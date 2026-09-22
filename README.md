@@ -10,6 +10,7 @@
 </p>
 
 - How to reach me **kripakhanal54@gmail.com**
+- Read stuff from me **https://medium.com/@creepahh13**
 
 <h3 align="left">Connect with me:</h3>
 <div id="badges" >
